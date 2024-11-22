@@ -1,42 +1,50 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Extremamente Aesthetic 💪
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto apresenta um vídeo de até 2 minutos com um avatar explicando o conceito "Natty or Not" no fisiculturismo. O objetivo é educar e promover uma discussão saudável sobre o uso de substâncias no esporte, utilizando um avatar animado para tornar o conteúdo dinâmico e acessível.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **IA Generativas**:
+  - [Ready Player Me](https://www.readyplayer.me/): Criação do avatar personalizado.
+  - [Adobe Character Animator](https://www.adobe.com/products/character-animator.html): Sincronização labial e animação do avatar.
+- **Edição e Design**:
+  - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html): Edição e composição do vídeo.
+  - [Canva Pro](https://www.canva.com/): Criação de elementos visuais complementares.
+- **Recursos de Áudio**:
+  - [YouTube Audio Library](https://studio.youtube.com/channel/UC/library/music): Música livre de direitos autorais.
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Planejamento**:
+   - Roteiro criado com foco em clareza e didática, destacando os principais pontos do conceito "Natty or Not".
+2. **Avatar e Animação**:
+   - Criação do avatar no Ready Player Me com aparência inspirada em fisiculturistas.
+   - Sincronização de áudio com movimentos faciais e corporais no Adobe Character Animator.
+3. **Edição Final**:
+   - Adição de música, transições e legendas no Adobe Premiere Pro.
+   - Inclusão de gráficos e efeitos visuais para enriquecer o vídeo.
+
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Um vídeo animado e informativo de 2 minutos, abordando de forma simples e clara o conceito "Natty or Not".
+- Um avatar personalizado que cativa o público e melhora o engajamento com o tema.
+- Uma entrega visualmente estética e educativa, alinhada com o público-alvo.
+
+---
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar algo "natty" com IA foi um desafio interessante. Conciliar o realismo com o visual estético do avatar demandou ajustes finos, especialmente para transmitir naturalidade nos gestos e expressões. Essa experiência reforçou a ideia de que a tecnologia pode ser uma aliada poderosa para educar e entreter.
+
+---
+
+💡 **Curtiu o projeto? Compartilhe com amigos ou adapte para o seu próprio conteúdo!**
 
 ### Exemplos e Insigths
 
