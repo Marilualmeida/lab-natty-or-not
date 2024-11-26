@@ -24,10 +24,10 @@ Este projeto apresenta um vídeo de até 2 minutos com um avatar explicando o co
 1. **Planejamento**:
    - Roteiro criado com foco em clareza e didática, destacando os principais pontos do conceito "Natty or Not".
 2. **Avatar e Animação**:
-   - Criação do avatar no Ready Player Me com aparência inspirada em fisiculturistas.
+   - Criação do avatar no Canvas Me com aparência inspirada em fisiculturistas.
    - Sincronização de áudio com movimentos faciais e corporais no Adobe Character Animator.
 3. **Edição Final**:
-   - Adição de música, transições e legendas no Adobe Premiere Pro.
+   
    - Inclusão de gráficos e efeitos visuais para enriquecer o vídeo.
 
 ---
